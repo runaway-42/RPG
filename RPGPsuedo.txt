@@ -1,0 +1,30 @@
+Brooke Farrell
+Kevin Perez
+
+10/25/21
+
+import random
+keep_going = y
+
+Haver user build their fighter
+	Attack attribute:
+	-select on of three options:'mage(a), Archery(b), Two-handed sword(c)
+#Each option will be assigned a set number of points
+	Armor attribute:
+	-select one of three options:Enchanted Robes(a), Light Armor(b), Heavy Armor(c)
+#Each option will be assigned a set number of points
+	Weakness attribute:
+	-Select one of three options:Encumbered(a), Hungry(b), Tired(c)
+#Each option will deduct a set number of points
+
+add(and subtract) points based on player choices
+
+
+Computer randomly selects a character from 3-6 options with varying points
+
+print the users fighter and point
+print computer fighter and points
+
+print winner of battle based on which has higher points
+
+prompt player to play again or quit
